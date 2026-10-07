@@ -1,0 +1,8 @@
+ibm-watsonx-ai==1.1.20
+gradio==5.22.0
+torch==2.5.1
+torchvision==0.20.1
+pillow==11.0.0
+requests==2.32.0
+pandas
+numpy

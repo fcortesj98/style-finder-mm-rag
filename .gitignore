@@ -1,0 +1,17 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Secrets
+.env
+.env.local
+
+# Dataset (download separately, see README)
+*.pkl
+
+# Gradio / OS artifacts
+.gradio/
+.DS_Store
